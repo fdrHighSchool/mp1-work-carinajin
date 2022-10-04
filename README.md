@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Jin
+### First Name: Carina
+### GitHub Username: carinajin
 
 ---
 #### General Workflow: 
